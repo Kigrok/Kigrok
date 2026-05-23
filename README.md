@@ -8,7 +8,7 @@ I am a Backend Engineer and Web3 Builder focused on designing scalable, secure, 
 I build async Python services, integrate EVM smart contracts, and deploy production infrastructure on VPS environments.  
 I design backend systems and protocol-level integrations.
 
-- 📭 Reach out if you’re building Web3 infrastructure or backend-heavy products  
+- 📭 Reach out if you're building Web3 infrastructure or backend-heavy products  
 - 💬 Ask me about async architecture, EVM integration, gRPC, or Telegram WebApps  
 - ⚙️ Core mindset: security-first, explicit design, performance-oriented  
 - 🚀 Career goal: Work in a high-impact Web3 or FinTech project
@@ -34,7 +34,9 @@ I design backend systems and protocol-level integrations.
 ---
 ## [Obsidian Library](https://github.com/Kigrok/obsidian-library-plugin)
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/)  [![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md/) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/)  [![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md/)  [![Community Plugin](https://img.shields.io/badge/Community%20Plugin-Published-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://community.obsidian.md/plugins/library)
+
+> 🔌 **[Published in Obsidian Community Plugins](https://community.obsidian.md/plugins/library)** — Discoverable by all Obsidian users · **42+ organic downloads**
 
 - Visual card-grid gallery inside Obsidian
 - OMDb API integration for automatic metadata fetching
@@ -49,6 +51,36 @@ I design backend systems and protocol-level integrations.
 - External API integration (OMDb)
 - Reactive UI rendering within Obsidian workspace
 - State synchronization between library view and media notes
+---
+## [VenvVPN](https://venvvpn.eu.cc/en) — Family VPN Platform
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/) [![Aiogram](https://img.shields.io/badge/Aiogram-3.x-blue?logo=python&logoColor=white)](https://docs.aiogram.dev/) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Xray](https://img.shields.io/badge/Xray-282828?style=flat-square)](https://github.com/XTLS/Xray-core) [![VLESS+REALITY](https://img.shields.io/badge/VLESS%2BREALITY-7C3AED?style=flat-square)](https://github.com/XTLS/Xray-core) [![SOCKS5 Dante](https://img.shields.io/badge/SOCKS5_Dante-EA580C?style=flat-square)](https://github.com/danderson/dante) [![MTProxy](https://img.shields.io/badge/MTProxy-0088CC?style=flat-square)](https://github.com/TelegramMessenger/MTProxy) [![tApps Center](https://img.shields.io/badge/tApps%20Center-Listed-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://tapps.center/application/venvvpn) [![VK Mini App](https://img.shields.io/badge/VK%20Mini%20App-Available-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.com/app54602746)
+
+> 🌐 **[venvvpn.eu.cc](https://venvvpn.eu.cc/en)** — Production website  
+> 🗂 **Listed on [tApps Center](https://tapps.center/application/venvvpn)** — Telegram Mini-App catalog for the TON ecosystem  
+> 💙 **[VK Mini App](https://vk.com/app54602746)** — Available on VK platform
+
+### Platform Metrics
+| 👥 Active Users | 🔌 Protocols | ⏱️ Uptime | 💵 Starting Price |
+|:-:|:-:|:-:|:-:|
+| **250+** | **12+** | **99.9%** | **$5 / month** |
+
+### Supported Protocols
+`VLESS+REALITY` `VLESS Vision` `VLESS gRPC` `VLESS Split` `VLESS Relay` `VLESS+WARP` `Hysteria2` `MTProxy` `MTProxy Relay` `SOCKS5` `HTTP Proxy` `Slipstream`
+
+- Telegram WebApp frontend built with **React + TypeScript + Tailwind**
+- Async FastAPI backend + aiogram 3 in a single process (webhook mode)
+- Multi-protocol VPN provisioning: **VLESS+REALITY**, **Hysteria2**, **SOCKS5 (Dante)**, **MTProxy** and more
+- SSH+SFTP server management via paramiko (config-file approach)
+- Unlimited VPN keys per subscription — one key per family member / device
+- Subscription lifecycle management with background scheduler
+- Dual payment flow: Telegram Stars + internal balance
+- Referral system with 10% commission logic
+- PostgreSQL + SQLAlchemy 2 async (asyncpg)
+- Production deployment: VPS + Caddy (auto-HTTPS) + systemd
+
+Family VPN with unlimited traffic — not just a bot.
+
 ---
 ## Web3 Landing
 
@@ -74,27 +106,6 @@ I design backend systems and protocol-level integrations.
 - NFT minting mechanics & marketplace logic
 - Frontend ↔ Smart Contract integration layer
 - EVM interaction & deployment workflows  
-
----
-## [VenvVPN](https://t.me/VenvVPNbot) — Distributed VPN Platform (Telegram WebApp)
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/) [![Aiogram](https://img.shields.io/badge/Aiogram-3.x-blue?logo=python&logoColor=white)](https://docs.aiogram.dev/) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Xray](https://img.shields.io/badge/Xray-282828?style=flat-square)](https://github.com/XTLS/Xray-core) [![VLESS+REALITY](https://img.shields.io/badge/VLESS%2BREALITY-7C3AED?style=flat-square)](https://github.com/XTLS/Xray-core) [![SOCKS5 Dante](https://img.shields.io/badge/SOCKS5_Dante-EA580C?style=flat-square)](https://github.com/danderson/dante) [![MTProxy](https://img.shields.io/badge/MTProxy-0088CC?style=flat-square)](https://github.com/TelegramMessenger/MTProxy) [![tApps Center](https://img.shields.io/badge/tApps%20Center-Listed-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://tapps.center/application/venvvpn)
-
-> 🗂 **Listed on [tApps Center](https://tapps.center/application/venvvpn)** — Telegram Mini-App catalog for the TON ecosystem
-
-- Telegram WebApp frontend built with **React + TypeScript + Tailwind**
-- Async FastAPI backend + aiogram 3 in a single process (webhook mode)
-- Multi-protocol VPN provisioning: **VLESS+REALITY**, **SOCKS5 (Dante)**, **MTProxy**
-- SSH+SFTP server management via paramiko (config-file approach)
-- Key provisioning & revocation across distributed VPN nodes
-- Subscription lifecycle management with background scheduler
-- Dual payment flow: Telegram Stars + internal balance
-- Referral system with 10% commission logic
-- PostgreSQL + SQLAlchemy 2 async (asyncpg)
-- Production deployment: VPS + Caddy (auto-HTTPS) + systemd
-
-Distributed backend system — not just a bot.
-
 ---
 ## [Nexul](https://github.com/Kigrok/Nexul) — Async Telegram Automation Framework
 
