@@ -39,15 +39,6 @@ I build async Python services, integrate EVM & TON smart contracts, ship product
 
 ---
 
-### 📈 GitHub
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kigrok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kirill's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kigrok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
-
----
-
 ## 🚀 Selected Projects
 
 ---
