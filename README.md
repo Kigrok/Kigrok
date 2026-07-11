@@ -98,7 +98,7 @@ A deterministic pipeline fixes everything mechanical the instant a file is writt
 
 ## [Obsidian Library](https://github.com/Kigrok/obsidian-library-plugin) — Visual Media Gallery for Obsidian
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/) [![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md/) [![Community Plugin](https://img.shields.io/badge/Community%20Plugin-Published-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://community.obsidian.md/plugins/library) [![Version](https://img.shields.io/badge/version-2.1.2-blue?style=flat-square)](https://github.com/Kigrok/obsidian-library-plugin/releases) [![Downloads](https://img.shields.io/github/downloads/Kigrok/obsidian-library-plugin/total?style=flat-square&color=brightgreen)](https://github.com/Kigrok/obsidian-library-plugin/releases)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/) [![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md/) [![Community Plugin](https://img.shields.io/badge/Community%20Plugin-Published-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://community.obsidian.md/plugins/library) [![Version](https://img.shields.io/badge/version-2.2.0-blue?style=flat-square)](https://github.com/Kigrok/obsidian-library-plugin/releases) [![Downloads](https://img.shields.io/github/downloads/Kigrok/obsidian-library-plugin/total?style=flat-square&color=brightgreen)](https://github.com/Kigrok/obsidian-library-plugin/releases)
 
 > 🔌 **[Published in Obsidian Community Plugins](https://community.obsidian.md/plugins/library)** — discoverable by every Obsidian user.
 
@@ -111,6 +111,23 @@ Organize movies, series, books, games, music, anime, and comics into a visual ca
 - Statistics: top genres, top creators, top-per-category with medal rankings
 - Duplicate detection by URL · sorting & collapsing · **31 languages**
 - **Offline-first** — no telemetry, no analytics; network only on active search
+
+---
+
+## [AI API Key Checker](https://github.com/Kigrok/api-key-checker) — Validate AI API Keys Inside Obsidian
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/) [![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md/) [![Community Plugin](https://img.shields.io/badge/Community%20Plugin-Published-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://community.obsidian.md/plugins/api-key-checker) [![Version](https://img.shields.io/badge/version-1.0.1-blue?style=flat-square)](https://github.com/Kigrok/api-key-checker/releases) [![Downloads](https://img.shields.io/github/downloads/Kigrok/api-key-checker/total?style=flat-square&color=brightgreen)](https://github.com/Kigrok/api-key-checker/releases)
+
+> 🔌 **[Published in Obsidian Community Plugins](https://community.obsidian.md/plugins/api-key-checker)** — desktop & mobile.
+
+Validate API keys and detect rate limits for **21 AI providers** — right inside Obsidian, in one click. Tells a *bad key* apart from a *good key with no quota*, and shows exactly when the limit resets.
+
+- **Instant validation** — every key checked against the real provider API, not a regex
+- **Rate-limit & balance detection** — `LIMIT — 17:20`, OpenRouter balance, daily-quota resets
+- **Bulk check** — paste 50+ keys, results in seconds; broken keys sorted to the top
+- **21 providers**: OpenAI · Anthropic · Gemini · Groq · Grok · OpenRouter · Bedrock · Fireworks · Z.ai + 12 more
+- Click-to-copy masked keys · stats bar (`12 OK | 3 LIMIT | 2 INVALID`) · last-check time
+- **Privacy-first** — keys never leave your machine except to reach the provider; no telemetry
 
 ---
 
