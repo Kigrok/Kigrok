@@ -3,6 +3,9 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
+concurrency:
+  group: metrics
+  cancel-in-progress: false
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -25,9 +28,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_stars: yes
           plugin_stars_limit: 3
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
 
       - name: Starred topics
         uses: lowlighter/metrics@latest
