@@ -1,18 +1,20 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:3670A0&height=180&section=header&text=Kirill%20Belous&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Backend%20%C2%B7%20Web3%20%C2%B7%20AI%20Tooling&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Kirill Belous" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=560&lines=Async+Python+services+%C2%B7+FastAPI+%C2%B7+aiogram;EVM+%26+TON+smart-contract+integration;AI+dev+tooling+%C2%B7+MCP+%C2%B7+Claude+Code" alt="Typing SVG" />
+
 [![Github Badge](https://img.shields.io/badge/-Kigrok-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kigrok)  [![Linkedin Badge](https://img.shields.io/badge/-Kirill%20Belous-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/playa/ "Connect on LinkedIn")  [![Telegram Badge](https://img.shields.io/badge/-@kplaya-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/kplaya "Contact on Telegram")  [![X Badge](https://img.shields.io/badge/venv_k-000000?style=flat&logo=X&logoColor=white)](https://x.com/venv_k "Follow on X")
-<a href="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"><img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" align="right" height="120" /></a>
 
-I am a **Backend Engineer & Web3 Builder** focused on designing scalable, secure, and performance-oriented systems.
-
-I build async Python services, integrate EVM & TON smart contracts, ship production infrastructure on bare VPS, and craft AI developer tooling that makes coding agents write senior-level code.
-
-- 📭 Reach out if you're building Web3 infrastructure, backend-heavy products, or AI dev tools
-- 💬 Ask me about async architecture, EVM/TON integration, gRPC, Telegram WebApps, or MCP tooling
-- ⚙️ Core mindset: security-first, explicit design, performance-oriented
-- 🚀 Career goal: Work in a high-impact Web3 or FinTech project
+</div>
 
 ---
 
 ### 🛠 Core Engineering Stack
+
+<p align="center">
+  <img src="/metrics/topics.svg" alt="Starred topics" />
+</p>
 
 | | |
 |:--|:--|
@@ -60,8 +62,29 @@ I build async Python services, integrate EVM & TON smart contracts, ship product
 
 ---
 
+### 📦 Open Source
+
+<p align="center">
+  <a href="https://github.com/Kigrok/python-pro"><img src="/metrics/repo-python-pro.svg" width="49%" alt="python-pro" /></a>
+  <a href="https://github.com/Kigrok/obsidian-library-plugin"><img src="/metrics/repo-obsidian-library-plugin.svg" width="49%" alt="obsidian-library-plugin" /></a>
+  <a href="https://github.com/Kigrok/api-key-checker"><img src="/metrics/repo-api-key-checker.svg" width="49%" alt="api-key-checker" /></a>
+  <a href="https://github.com/Kigrok/Nexul"><img src="/metrics/repo-nexul.svg" width="49%" alt="Nexul" /></a>
+</p>
+
+---
+
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="/github-metrics.svg" alt="GitHub metrics" />
+  <img src="/metrics/overview.svg" alt="GitHub metrics" />
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kigrok/Kigrok/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kigrok/Kigrok/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Kigrok/Kigrok/output/github-snake.svg" />
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:0d1b2a&height=100&section=footer" width="100%" alt="" />
