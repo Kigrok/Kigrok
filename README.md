@@ -12,10 +12,6 @@
 
 ### 🛠 Core Engineering Stack
 
-<p align="center">
-  <img src="/metrics/topics.svg" alt="Starred topics" />
-</p>
-
 | | |
 |:--|:--|
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) |
