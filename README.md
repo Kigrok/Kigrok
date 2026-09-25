@@ -71,20 +71,4 @@
   <a href="https://github.com/Kigrok/Nexul"><img src="/metrics/repo-nexul.svg" width="49%" alt="Nexul" /></a>
 </p>
 
----
-
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img src="/metrics/overview.svg" alt="GitHub metrics" />
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kigrok/Kigrok/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kigrok/Kigrok/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Kigrok/Kigrok/output/github-snake.svg" />
-  </picture>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:0d1b2a&height=100&section=footer" width="100%" alt="" />
