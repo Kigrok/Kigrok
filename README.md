@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:3670A0&height=180&section=header&text=Kirill%20Belous&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Backend%20%C2%B7%20Web3%20%C2%B7%20AI%20Tooling&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Kirill Belous" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=560&lines=Async+Python+services+%C2%B7+FastAPI+%C2%B7+aiogram;EVM+%26+TON+smart-contract+integration;AI+dev+tooling+%C2%B7+MCP+%C2%B7+Claude+Code" alt="Typing SVG" />
-
 [![Github Badge](https://img.shields.io/badge/-Kigrok-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kigrok)  [![Linkedin Badge](https://img.shields.io/badge/-Kirill%20Belous-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/playa/ "Connect on LinkedIn")  [![Telegram Badge](https://img.shields.io/badge/-@kplaya-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/kplaya "Contact on Telegram")  [![X Badge](https://img.shields.io/badge/venv_k-000000?style=flat&logo=X&logoColor=white)](https://x.com/venv_k "Follow on X")
 
 </div>
